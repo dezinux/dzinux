@@ -1,20 +1,19 @@
 /*
-	Theme Name:			Dezinux
-	Description:		The lightweight theme for Dezinux.
+	Theme Name:			Dzinux
+	Description:		The most naked WordPress Theme with 0% bloatware
 	Theme URI:			https://dezinux.com
-	Author:				Dezinux
+	Author:				Dezinux LLP
 	Author URI:			https://dezinux.com
-	Version:			1.0.3
+	Version:			1.0.1
 	Requires at least:	4.9
 	Requires PHP:		7.0
 	Tested up to:		5.7.1
 	License:			GNU General Public License v3 or later.
 	License URI:		https://www.gnu.org/licenses/gpl-3.0.html
 	Tags:				custom-logo, one-column, two-columns, translation-ready
-	Text Domain: 		dezinux
+	Text Domain: 		dzinux
 */
 
-/*! minimal reset based on simplified normalise.css */
 html {
     line-height: 1.15;
   }
@@ -27,9 +26,7 @@ html {
     font-size: 2em;
     margin: 0.67em 0;
   }
-  p {
-  margin: 0;
-  }
+
   b,
   strong {
     font-weight: bolder;
