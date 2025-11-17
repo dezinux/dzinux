@@ -45,11 +45,11 @@ When a new version is available, WordPress will show an update under:
 Update with a single click.
 
 ## 🧩 Ideal For
-	•	Elementor landing pages
-	•	Custom design systems
-	•	Client websites
-	•	Performance-focused builds
-	•	Developers & agencies needing a clean starter theme
+- Elementor landing pages
+- Custom design systems
+- Client websites
+- Performance-focused builds
+- Developers & agencies needing a clean starter theme
 
 ## 📜 License
 
