@@ -39,7 +39,7 @@ Then activate the theme in **Appearance → Themes**.
 ### Option 3 — Clone via Git
 ```bash
 git clone https://github.com/dezinux/dzinux.git wp-content/themes/dzinux
-
+```bash
 ---
 
 ## 🔄 Automatic Updates
