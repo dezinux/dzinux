@@ -3,8 +3,6 @@
 Dzinux is an ultra-minimal WordPress theme designed to be fast, lightweight, and fully compatible with Elementor.  
 It focuses on clean markup, essential features only, and zero unnecessary code — giving you a pure blank canvas for building high-performance websites.
 
----
-
 ## 🚀 Features
 - Ultra-lightweight: minimal CSS & JS  
 - 0% bloatware — no bundled plugins, no frameworks  
@@ -16,13 +14,9 @@ It focuses on clean markup, essential features only, and zero unnecessary code �
 - Developer-friendly, easy to extend  
 - Works with Gutenberg and other popular builders  
 
----
-
 ## 📦 Requirements
 - **WordPress:** 4.9+  
 - **PHP:** 7.0+  
-
----
 
 ## 🔧 Installation
 
@@ -40,7 +34,6 @@ Then activate the theme in **Appearance → Themes**.
 ```bash
 git clone https://github.com/dezinux/dzinux.git wp-content/themes/dzinux
 ```
----
 
 ## 🔄 Automatic Updates
 
@@ -50,3 +43,17 @@ When a new version is available, WordPress will show an update under:
 	•	Appearance → Themes
 
 Update with a single click.
+
+## 🧩 Ideal For
+	•	Elementor landing pages
+	•	Custom design systems
+	•	Client websites
+	•	Performance-focused builds
+	•	Developers & agencies needing a clean starter theme
+
+## 📜 License
+
+GPL-3.0-or-later
+See the included LICENSE file for details.
+
+© Dezinux LLP.
