@@ -1,6 +1,6 @@
 /*
 	Theme Name:			Dzinux
-	Description:		The most naked WordPress Theme with 0% bloatware
+	Description:		The most naked and lightweight WordPress Theme with 0% bloatware
 	Theme URI:			https://dezinux.com
 	Author:				Dezinux LLP
 	Author URI:			https://dezinux.com
@@ -167,4 +167,31 @@ html {
   .gallery-caption {
     display: block;
     margin-bottom: 0;
+  }
+  
+  /* WordPress Login Page Logo Styles */
+  #login h1 a,
+  .login h1 a,
+  #login h1.wp-login-logo a,
+  .login h1.wp-login-logo a {
+    background-image: var(--login-logo-url, none) !important;
+    width: var(--login-logo-width, 320px) !important;
+    height: var(--login-logo-height, 100px) !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    display: block !important;
+    margin: 0 auto 25px !important;
+    padding: 0 !important;
+    text-indent: -9999px !important;
+    overflow: hidden !important;
+    font-size: 0 !important;
+    line-height: 0 !important;
+    max-width: 320px !important;
+    max-height: 100px !important;
+  }
+  
+  #login h1.wp-login-logo,
+  .login h1.wp-login-logo {
+    margin-bottom: 25px !important;
   }
