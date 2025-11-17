@@ -1,6 +1,6 @@
-# Dzinux — A clean, ultra-lightweight WordPress theme with zero bloat and full Elementor compatibility.
+# D'zinux — A clean, ultra-lightweight WordPress theme with zero bloat and full Elementor compatibility.
 
-Dzinux is an ultra-minimal WordPress theme designed to be fast, lightweight, and fully compatible with Elementor.  
+D'zinux is an ultra-minimal WordPress theme designed to be fast, lightweight, and fully compatible with Elementor.  
 It focuses on clean markup, essential features only, and zero unnecessary code — giving you a pure blank canvas for building high-performance websites.
 
 ## 🚀 Features
