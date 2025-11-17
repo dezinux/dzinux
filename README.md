@@ -12,7 +12,7 @@ Ultra‑minimal WordPress theme designed to be lightweight and work great with E
 3. Or upload the unzipped `dzinux-theme` folder to `wp-content/themes/` and activate.
 
 ## Automatic Updates
-Dezinux includes a built‑in updater. When a new version is available, WordPress will show an update in Dashboard → Updates and Appearance → Themes
+Dzinux includes a built‑in updater. When a new version is available, WordPress will show an update in Dashboard → Updates and Appearance → Themes
 
 ## License
 GPL-3.0-or-later. See `LICENSE`.
